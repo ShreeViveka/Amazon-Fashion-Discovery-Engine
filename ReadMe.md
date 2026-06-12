@@ -1,5 +1,3 @@
-Excited to share a project where I developed an intelligent product recommendation system that combines Natural Language Processing, Vector Search, and Image Embeddings to recommend similar fashion products.
-
 🔹 Project Workflow
 
 📌 1. Data Preprocessing
